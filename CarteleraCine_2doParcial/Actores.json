@@ -1,0 +1,10 @@
+[
+  {
+    "Nombre Pelicula": "Aquaman",
+    "Alumnos": [ "joel", "pedro", "Juana", "Miguel", "Marcos", "Jesus", "Moses", "Juan", "Martina," ]
+  },
+  {
+    "Nombre Pelicula": "Superman",
+    "Alumnos": [ "Alejandro", "Luis", "Pablo", "Amilcar", "Batman", "Alejandra", "Maria", "Hortencia"]
+  }
+]
